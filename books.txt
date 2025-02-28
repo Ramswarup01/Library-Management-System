@@ -1,0 +1,9 @@
+new book|autho|pubbb|3
+just saying|just me|forgot|2
+naya book|baba ramdev|gyan putr|3
+Math Basics|John Doe|ABC Publishers|4  
+Science Fun|Jane Smith|XYZ Books|6  
+Story Time|Bob Lee|Kids World|8
+Easy Coding|Alice Ray|Tech Press|5  
+History 101|Logan|Charles|5
+Bambi|night angel|disney|7

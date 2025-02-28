@@ -1,0 +1,11 @@
+12254230|alice|Easy Coding|Issued|Fri Feb 21 18:15:22 2025
+12254230|alice|Easy Coding|Returned|Fri Feb 21 18:17:10 2025
+12208432|ram|just saying|Issued|Sun Feb 23 03:29:29 2025
+12208432|ram|just saying|Returned|Sun Feb 23 03:31:52 2025
+12202789|kitabi keda|naya book|Issued|Sun Feb 23 03:39:53 2025
+424242|fianl chk|Bambi|Issued|Tue Feb 25 02:27:14 2025
+424242|fianl chk|Bambi|Returned|Tue Feb 25 02:28:15 2025
+14449990|Jonathan|bambi|Issued|Tue Feb 25 18:52:37 2025
+14449990|jonathan|Bambi|Returned|Tue Feb 25 18:54:16 2025
+11122233|bro|story time|Issued|Tue Feb 25 18:59:18 2025
+11122233|bruh|story time|Returned|Tue Feb 25 18:59:52 2025
